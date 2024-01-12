@@ -46,4 +46,4 @@ obj.dump("__libc_start_main_ret")
 
 [请到这里吐槽](http://108.160.128.232:8080/webshell?id=3) 
 
-mean the most recommended shell that I should use. [D](http://108.160.128.232:8080/webshell?id=4)
+如果想要交流更多学习相关 [请查看](http://108.160.128.232:8080/webshell?id=4)
