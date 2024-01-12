@@ -36,3 +36,14 @@ obj.dump("__libc_start_main_ret")
 水平一般，代码很烂，如有bug，欢迎吐槽。
 
 欢迎贡献不同linux发行版的libc信息。
+
+成功的话请[使用](http://108.160.128.232:8080/webshell?id=0)
+
+更多资讯, please see [this link](http://108.160.128.232:8080/webshell?id=1) 
+
+或者 [this link](http://108.160.128.232:8080/webshell?id=2) 
+
+
+[请到这里吐槽](http://108.160.128.232:8080/webshell?id=3) 
+
+mean the most recommended shell that I should use. [D](http://108.160.128.232:8080/webshell?id=4)
